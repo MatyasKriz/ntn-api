@@ -1,0 +1,292 @@
+{
+    "vpProductByIds" : [
+      {
+        "id" : "16262171",
+        "productId" : 16262171,
+        "masterId" : 16262167,
+        "brand" : {
+          "id" : "335436",
+          "name" : "Stanley",
+          "__typename" : "Brand"
+        },
+        "annotation" : "nerezový tumbler s brčkem 1180 ml",
+        "productCode" : "STYFTAW_ZFIT11",
+        "imageUrl" : "stanley/1210001965416_01-o/quencher-h2-o-flowstate-tumbler___240829.jpg",
+        "price" : {
+          "value" : 1300,
+          "currency" : "CZK",
+          "__typename" : "Price"
+        },
+        "name" : "Quencher H2.O FlowState™ Tumbler",
+        "reviewOverview" : {
+          "count" : 16,
+          "rating" : 3.7999999999999998,
+          "__typename" : "ReviewOverview"
+        }
+      },
+      {
+        "id" : "16242328",
+        "productId" : 16242328,
+        "masterId" : 16242328,
+        "brand" : {
+          "id" : "44128",
+          "name" : "Beauty",
+          "__typename" : "Brand"
+        },
+        "annotation" : "sada limitovaná edice pro ženy",
+        "productCode" : "BEUDBAW_CSET10",
+        "imageUrl" : "beauty/2800010276109_01-o/discovery-box-notino-by-ewa-farna___240926.jpg",
+        "price" : {
+          "value" : 179,
+          "currency" : "CZK",
+          "__typename" : "Price"
+        },
+        "name" : "Discovery Box Notino by Ewa Farna",
+        "reviewOverview" : {
+          "count" : 11,
+          "rating" : 4.0999999999999996,
+          "__typename" : "ReviewOverview"
+        }
+      },
+      {
+        "id" : "16168474",
+        "productId" : 16168474,
+        "masterId" : 16168474,
+        "brand" : {
+          "id" : "46329",
+          "name" : "The Ordinary",
+          "__typename" : "Brand"
+        },
+        "annotation" : "sérum s kyselinou salicylovou 30 ml",
+        "productCode" : "THOSASW_KFSR11",
+        "imageUrl" : "the_ordinary/769915199581_01-o/salicylic-acid-2-solution___221123.jpg",
+        "price" : {
+          "value" : 184,
+          "currency" : "CZK",
+          "__typename" : "Price"
+        },
+        "name" : "Salicylic Acid 2% Solution",
+        "reviewOverview" : {
+          "count" : 111,
+          "rating" : 3.7999999999999998,
+          "__typename" : "ReviewOverview"
+        }
+      },
+      {
+        "id" : "16197220",
+        "productId" : 16197220,
+        "masterId" : 16197220,
+        "brand" : {
+          "id" : "121",
+          "name" : "Prada",
+          "__typename" : "Brand"
+        },
+        "annotation" : "parfémovaná voda plnitelná pro ženy 90 ml",
+        "productCode" : "PRAPINW_AEDP03",
+        "imageUrl" : "prada/3614273961707_01-o/paradoxe-intense___230825.jpg",
+        "price" : {
+          "value" : 4108,
+          "currency" : "CZK",
+          "__typename" : "Price"
+        },
+        "name" : "Paradoxe Intense",
+        "reviewOverview" : {
+          "count" : 49,
+          "rating" : 4.7000000000000002,
+          "__typename" : "ReviewOverview"
+        }
+      },
+      {
+        "id" : "16241058",
+        "productId" : 16241058,
+        "masterId" : 16241058,
+        "brand" : {
+          "id" : "331148",
+          "name" : "Anua",
+          "__typename" : "Brand"
+        },
+        "annotation" : "čisticí a zklidňující tonikum pro obnovu kožní bariéry 500 ml",
+        "productCode" : "AUAHRTW_KTON01",
+        "imageUrl" : "anua/8809640731440_01-o/heartleaf-77-soothing-toner___240412.jpg",
+        "price" : {
+          "value" : 780,
+          "currency" : "CZK",
+          "__typename" : "Price"
+        },
+        "name" : "Heartleaf 77% Soothing Toner",
+        "reviewOverview" : {
+          "count" : 22,
+          "rating" : 3.7000000000000002,
+          "__typename" : "ReviewOverview"
+        }
+      },
+      {
+        "id" : "16120312",
+        "productId" : 16120312,
+        "masterId" : 16120312,
+        "brand" : {
+          "id" : "46329",
+          "name" : "The Ordinary",
+          "__typename" : "Brand"
+        },
+        "annotation" : "oční sérum proti otokům a tmavým kruhům 30 ml",
+        "productCode" : "THOCAFW_KESR05",
+        "imageUrl" : "the_ordinary/769915190670_01-o/caffeine-solution-5-egcg___220406.jpg",
+        "price" : {
+          "value" : 243,
+          "currency" : "CZK",
+          "__typename" : "Price"
+        },
+        "name" : "Caffeine Solution 5% + EGCG",
+        "reviewOverview" : {
+          "count" : 37,
+          "rating" : 3.7999999999999998,
+          "__typename" : "ReviewOverview"
+        }
+      },
+      {
+        "id" : "16203758",
+        "productId" : 16203758,
+        "masterId" : 16203758,
+        "brand" : {
+          "id" : "46329",
+          "name" : "The Ordinary",
+          "__typename" : "Brand"
+        },
+        "annotation" : "dárková sada",
+        "productCode" : "THOTCSW_KSET04",
+        "imageUrl" : "the_ordinary/769915233230_01/the-clear-set___231002.jpg",
+        "price" : {
+          "value" : 430,
+          "currency" : "CZK",
+          "__typename" : "Price"
+        },
+        "name" : "The Clear Set",
+        "reviewOverview" : {
+          "count" : 19,
+          "rating" : 4.7000000000000002,
+          "__typename" : "ReviewOverview"
+        }
+      },
+      {
+        "id" : "16014272",
+        "productId" : 16014272,
+        "masterId" : 16014272,
+        "brand" : {
+          "id" : "17114",
+          "name" : "Ziaja",
+          "__typename" : "Brand"
+        },
+        "annotation" : "pleťové tonikum ve spreji pro mladou pleť 200 ml",
+        "productCode" : "ZIAJYSW_KTON11",
+        "imageUrl" : "ziaja/5901887047230_01-o/jeju-young-skin___200228.jpg",
+        "price" : {
+          "value" : 84,
+          "currency" : "CZK",
+          "__typename" : "Price"
+        },
+        "name" : "Jeju Young Skin",
+        "reviewOverview" : {
+          "count" : 5,
+          "rating" : 4.5999999999999996,
+          "__typename" : "ReviewOverview"
+        }
+      },
+      {
+        "id" : "16275297",
+        "productId" : 16275297,
+        "masterId" : 16275297,
+        "brand" : {
+          "id" : "86040",
+          "name" : "Beauty of Joseon",
+          "__typename" : "Brand"
+        },
+        "annotation" : "rozjasňující tonikum pro citlivou a suchou pleť 150 ml",
+        "productCode" : "BEJGLRW_KTON01",
+        "imageUrl" : "beauty_of_joseon/8809968130239_01-o/glow-replenishing-rice-milk___241022.jpg",
+        "price" : {
+          "value" : 565,
+          "currency" : "CZK",
+          "__typename" : "Price"
+        },
+        "name" : "Glow Replenishing Rice Milk",
+        "reviewOverview" : {
+          "count" : 2,
+          "rating" : 4.5,
+          "__typename" : "ReviewOverview"
+        }
+      },
+      {
+        "id" : "16001703",
+        "productId" : 16001703,
+        "masterId" : 16001703,
+        "brand" : {
+          "id" : "49778",
+          "name" : "Pyunkang Yul",
+          "__typename" : "Brand"
+        },
+        "annotation" : "esenciální zklidňující tonikum s hydratačním účinkem 200 ml",
+        "productCode" : "PYUESTW_KTON01",
+        "imageUrl" : "pyunkang-yul/8809486680056_01-o/essence-toner___191126.jpg",
+        "price" : {
+          "value" : 486,
+          "currency" : "CZK",
+          "__typename" : "Price"
+        },
+        "name" : "Essence Toner",
+        "reviewOverview" : {
+          "count" : 61,
+          "rating" : 4.7999999999999998,
+          "__typename" : "ReviewOverview"
+        }
+      },
+      {
+        "id" : "16179458",
+        "productId" : 16179458,
+        "masterId" : 16179458,
+        "brand" : {
+          "id" : "95835",
+          "name" : "mixsoon",
+          "__typename" : "Brand"
+        },
+        "annotation" : "zklidňující pleťové tonikum s hydratačním účinkem 150 ml",
+        "productCode" : "MIXCNTW_KTON01",
+        "imageUrl" : "mixsoon/8809732911583_01-o/centella-asiatica___230406.jpg",
+        "price" : {
+          "value" : 243,
+          "currency" : "CZK",
+          "__typename" : "Price"
+        },
+        "name" : "Centella Asiatica",
+        "reviewOverview" : {
+          "count" : 41,
+          "rating" : 4.9000000000000004,
+          "__typename" : "ReviewOverview"
+        }
+      },
+      {
+        "id" : "67982",
+        "productId" : 67982,
+        "masterId" : 67982,
+        "brand" : {
+          "id" : "222",
+          "name" : "La Roche-Posay",
+          "__typename" : "Brand"
+        },
+        "annotation" : "fyziologické zklidňující tonikum pro citlivou pleť 200 ml",
+        "productCode" : "LRPPHYW_KECL30",
+        "imageUrl" : "la-roche-posay/3337872410321_01-o/physiologique___240619.jpg",
+        "price" : {
+          "value" : 536,
+          "currency" : "CZK",
+          "__typename" : "Price"
+        },
+        "name" : "Physiologique",
+        "reviewOverview" : {
+          "count" : 42,
+          "rating" : 4.7000000000000002,
+          "__typename" : "ReviewOverview"
+        }
+      }
+    ]
+}
